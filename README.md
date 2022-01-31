@@ -5,7 +5,7 @@
 
 I'm Brend, a Frontend web developer currently learning ReactJS and improving my knowledges with JS and responsive design, but I also code in another programming languages like C++ and Python
 
-## Coding Skills 🛠️
+## Frontend Web Development coding Skills 🛠️
 <hr />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="16" height="16"> Javascript
