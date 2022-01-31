@@ -15,5 +15,6 @@ I'm Brend, a Frontend web developer currently learning ReactJS and improving my 
 <img src="https://user-images.githubusercontent.com/98718897/151723946-4674ce2f-b1c2-4e60-b48e-5466e57f5762.png" width="16" heihgt="16"> Git
 
 ##Github Stats 📊
+<hr />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendzv&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
