@@ -7,6 +7,7 @@ I'm Brend, a Frontend web developer currently learning ReactJS and improving my 
 
 ## Frontend Web Development coding Skills 🛠️
 <hr />
+
 - Javascript
 
 - Html & CSS
