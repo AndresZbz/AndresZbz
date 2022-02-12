@@ -5,14 +5,16 @@
 
 I'm Brend, a Frontend web developer currently improving my knowledges with JS and responsive design, but I also code in another programming languages like C++ and Python
 
-## Frontend Web Development coding Skills 🛠️
+## Coding Skills 🛠️
 <hr />
 
-- Javascript
-
-- Html & CSS
+- HTML/CSS/JavaScript
 
 - Git
+
+- Python
+
+- C#/C++
 
 ## Github Stats 📊
 <hr />
