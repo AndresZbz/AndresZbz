@@ -3,7 +3,7 @@
 ## Welcome to my page 💻
 <hr />
 
-I'm Brend, a Frontend web developer currently improving my knowledges with JS and responsive design, but I also code in another programming languages like C++ and Python
+I'm Brend, a person who code.
 
 ## Coding Skills 🛠️
 <hr />
