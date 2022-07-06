@@ -3,7 +3,7 @@
 ## Welcome to my page 💻
 <hr />
 
-I'm Brend, a person who code.
+Heyo, I'm Brend an Computer Science student who sometimes code, I like EDM music but my favorites genres are Dubstep, Future Bass and Riddim. I started coding using JavaScript but rignt now I'm more focused with C++.
 
 ## Coding Skills 🛠️
 <hr />
