@@ -3,7 +3,7 @@
 ## Welcome to my page 💻
 <hr />
 
-Heyo, I'm Brend an Computer Science student who sometimes code
+Heyo, I'm Brend who sometimes code
 
 ## Github Stats 📊
 <hr />
