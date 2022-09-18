@@ -1,9 +1,18 @@
 ### Hey! 👋
 
-## Welcome to my page 💻
-<hr />
 
-Heyo, I'm Brend who sometimes code
+I'm Brend, a CS student who sometimes make projects but have fun doing them.
+
+![pikachugifdance](https://c.tenor.com/rt2qSDNvVEQAAAAj/pikachu-dance.gifcute-gif-15783473)
+
+## My current projects
+
+Project                               | Link
+-----------                           | --------
+Gui Text Editor                       | https://github.com/Brendzv/GUI-Text-Editor
+ClockCLI                              |  https://github.com/Brendzv/ClockCLI
+
+
 
 ## Github Stats 📊
 <hr />
