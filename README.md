@@ -12,5 +12,3 @@ Programming languages I mostly use:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IntoTheVertex&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![pikachugifdance](https://c.tenor.com/rt2qSDNvVEQAAAAj/pikachu-dance.gifcute-gif-15783473)
-
