@@ -1,7 +1,7 @@
 ### Hey! 👋
 
 
-I'm Andres, a CS student and sometimes I make project but I have fun making them.
+I'm Andres, a CS student.
 
 Programming languages I mostly use:
 - JavaScript
