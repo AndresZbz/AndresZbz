@@ -1,9 +1,9 @@
 ### Hey! 👋
 
-I'm Andres, a CS student.
+I'm Juan, a CS student that makes games sometimes and do web development stuff.
 
 Programming languages I mostly use:
 - JavaScript
-- C++
+- Python
 - C#
 
