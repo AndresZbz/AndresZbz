@@ -7,3 +7,5 @@ Programming languages I mostly use:
 - Python
 - C#
 
+now learning:
+- Haskell
