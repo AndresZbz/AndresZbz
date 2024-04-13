@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Juan, a CS student that makes games sometimes and do web development stuff.
+I'm Juan, a CS student this github is mostly focused into game dev stuff.
 
 Programming languages I mostly use:
 - JavaScript
