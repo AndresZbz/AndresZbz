@@ -13,5 +13,3 @@ Frameworks/libraries/whatever things I use (for both webdev & gamedev)
 - Vue
 - Monogame
 - SDL2
-
-huge fan of Pokemon and bass music (dubstep mostly, fav artist: Panda Eyes)
