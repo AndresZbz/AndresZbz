@@ -10,7 +10,7 @@
 
 - Based on web development, reaching for game dev
 - Currently learning and building skills to transition into the game development world.
-- 🛠Languages I mostly use: **JavaScript**, **C#**, **Python**
+- Languages I mostly use: **JavaScript**, **C#**, **Python**
 - D&D enthusiast—always up for an adventure!
 
 ---
