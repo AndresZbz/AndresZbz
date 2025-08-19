@@ -11,7 +11,7 @@
 - Based on web development, reaching for game dev
 - Currently learning and building skills to transition into the game development world.
 - Languages I mostly use: **JavaScript**, **C#**, **Python**
-- Currently learning **Golang**
+- Currently learning **Lua & Love2D**
 - D&D enthusiast—always up for an adventure!
 
 ---
