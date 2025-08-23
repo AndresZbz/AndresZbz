@@ -1,43 +1,45 @@
-<h1 align="left">Hi, I'm Andrés 👋</h1>
-
-<p align="left">
-  <b>Web Developer | Aspiring Game Developer</b>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- Based on web development, reaching for game dev
-- Currently learning and building skills to transition into the game development world.
-- Languages I mostly use: **JavaScript**, **C#**, **Python**
-- Currently learning **Lua & Love2D**
-- D&D enthusiast—always up for an adventure!
-
----
-
-## 🧰 Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-5E81AC?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-88C0D0?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-A3BE8C?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Godot Engine-478CBF?style=flat&logo=godotengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MonoGame-E73C00?style=flat&logo=monogame&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=matrix&logoColor=black" />
+  <img src="https://img.shields.io/badge/NEURAL_NET-ACTIVE-ff0080?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/SECURITY_LEVEL-CLASSIFIED-red?style=for-the-badge&logo=lock&logoColor=white" />
 </p>
 
+# [I.O A.N.D.R.É.S]
 ---
 
-## 🎯 Goals
+## 👨‍💻 ///_USER_PROFILE: ANDRÉS
 
-- Transition from web dev to game dev
-- Learn more about game engines & frameworks
+- **Designation:** `Frontend Web Developer` | **Objective:** `Game Developer`
+- **Primary Languages:** `JavaScript` (Neural Core), `C#` (Games Protocol), `Python` (Backend Serpent)
+- **Currently Decoding:** `Lua & Love2D`
+- **Leisure Protocol:** Analog fantasy simulations (D&D). Always seeking new adventures.
 
 ---
 
-## 🎲 Fun Facts
+## 🧰 ///_SYNTHETIC_SUITE
 
-- I like playing and DMing Dungeons & Dragons campaigns (still newbie).
-- Pokémon fan.
+`<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Neural_Core-ffff00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-Game_Protocol-9932cc?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Backend_Serpent-00ff41?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Godot-Game_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MonoGame-My_Beloved-E73C00?style=for-the-badge&logo=monogame&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua_Love2D-Learning_Protocol-00bfff?style=for-the-badge&logo=lua&logoColor=white"/>
+</p>`
+
+---
+
+## 🎯 ///_MISSION_LOG: PRIMARY_OBJECTIVES
+
+- `[001]` **Directive:** Shift from web development to game development.
+- `[002]` **Action:** Acquire and master new game engine and frameworks.
+
+---
+
+## 🎲 ///_ANALOG_DATA: MISC.
+
+- **D&D:** Running & playing fantasy simulations. Newbie, but dedicated to the craft.
+- **Pokémon:** fan <3
+- **Music:** Meganeko & Panda Eyes enjoyer.
 
 ---
