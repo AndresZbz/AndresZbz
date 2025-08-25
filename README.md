@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/IDK_WHAT-PUT_HERE-red?style=for-the-badge&logo=lock&logoColor=white" />
 </p>
 
-- **Currently working as:** `Web Developer` | **but my goal is working as a:** `Game Developer`
+- **Currently working as:** `Web Developer` | **but my goal is to fully works as a:** `Game Developer`
 - **Primary Languages:** `JavaScript`, `TypeScript`, `C#`, `Python`
 - **Currently learning:** `Lua & Love2D`
 - **Extra required info:** D&D enthusiast.
