@@ -29,7 +29,7 @@ My go-to stack for when I'm working or hobbying, but mostly the ones I use.
 
 ---
 
-## Wher to find me
+## Wanna talk | Contact me
 
 Discord: sorrowsora
 
