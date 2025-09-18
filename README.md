@@ -9,7 +9,7 @@
 
 - **Currently working as:** `Web Developer` | **but my goal is to fully work as a:** `Game Developer`
 - **Primary Languages:** `JavaScript`, `TypeScript`, `C#`, `Python`
-- **Currently learning:** `Lua & Love2D`
+- **Currently learning:** `Mastering C# & Js/Ts`
 - **Extra required info:** D&D enthusiast.
 
 ---
