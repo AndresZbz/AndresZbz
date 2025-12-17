@@ -7,12 +7,12 @@
   <img src="https://img.shields.io/badge/IDK_WHAT-PUT_HERE-red?style=for-the-badge&logo=lock&logoColor=white" />
 </p>
 
-I try to make things when I feel happy.
+I try to make things when I feel happy and motivated.
 
 - **Currently working as:** `Web Developer` | **but my goal is to fully work as a:** `Game Developer`
 - **Primary Languages:** `JavaScript`, `TypeScript`, `C#`, `Python`
-- **Currently learning:** `Mastering C# & Js/Ts`
-- **Extra required info:** D&D enthusiast.
+- **Currently learning:** `Mastering C# & Go`
+- **Extra required info:** D&D enthusiast, Pokémon fan.
 
 ---
 
