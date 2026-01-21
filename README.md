@@ -26,6 +26,8 @@ My go-to stack for when I'm working or hobbying, but mostly the ones I use.
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/MonoGame-E73C00?style=for-the-badge&logo=monogame&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff" />
 </p>
 
 ---
