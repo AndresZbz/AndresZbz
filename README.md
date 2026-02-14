@@ -34,7 +34,7 @@ My go-to stack for when I'm working or hobbying, but mostly the ones I use.
 
 ## Wanna talk | Contact me
 
-Discord: sorrowsora
+Linkedin: [My Personal Profile](www.linkedin.com/in/juan-bouza-867a5821b)
 
 Dev.to: [Click here lolz](https://dev.to/sorrowsora)
 
