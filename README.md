@@ -9,8 +9,8 @@
 
 I try to make things when I feel happy and motivated.
 
-- **Currently working as:** `Web Developer` | **but my goal is to fully work as a:** `Game Developer`
-- **Currently learning:** `Mastering C#`
+- **Currently working as:** `Web Developer` | **My hobby as a developer is:** `Game Development`
+- **Currently learning:** `Mastering C# & JS`
 - **Extra required info:** D&D enthusiast, Pokémon fan.
 
 ---
@@ -36,6 +36,6 @@ My go-to stack for when I'm working or hobbying, but mostly the ones I use.
 
 Linkedin: [My Personal Profile](https://www.linkedin.com/in/juan-bouza-867a5821b)
 
-Dev.to: [Click here lolz](https://dev.to/sorrowsora)
+Dev.to: [Click here](https://dev.to/sorrowsora)
 
 ---
