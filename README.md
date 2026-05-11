@@ -10,13 +10,13 @@
 I try to make things when I feel happy and motivated.
 
 - **Currently working as:** `Web Developer` | **My hobby as a developer is:** `Game Development`
-- **Currently learning:** `Mastering C# & JS`
-- **Extra required info:** D&D enthusiast, Pokémon fan.
+- **Currently learning:** `Mastering C# & Building tools`
+- **Extra required info:** D&D enthusiast, Pokémon fan, loves art made by only humans.
 
 ---
 
 ## Tech Stack
-My go-to stack for when I'm working or hobbying, but mostly the ones I use.
+My go-to stack for when I'm working or hobbying, but mostly the ones I use personally.
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -28,6 +28,12 @@ My go-to stack for when I'm working or hobbying, but mostly the ones I use.
   <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff" />
+</p>
+
+### Technologies I'll check out someday
+<p>
+  	<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=fff" />
 </p>
 
 ---
